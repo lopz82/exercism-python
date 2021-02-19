@@ -1,3 +1,13 @@
+# Test results for 100000000 length string
+#
+# rotate()
+# Memory used (kB): 891448
+# User time (seconds): 69.08
+#
+# rotate_duck_typing()
+# Memory used (kB): 989156
+# User time (seconds): 132.22
+
 from string import ascii_lowercase as lowercase
 from string import ascii_uppercase as uppercase
 
